@@ -1,0 +1,4 @@
+pinecone
+datasets
+librosa
+panns-inference
